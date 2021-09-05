@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.xml
+*.iml
+*.idea
+out
+.gitignore
+description.html
+# Datasource local storage ignored files
+/../../../../../../../:\Users\ilnaz\IdeaProjects\BrysonPayneJava\GuessingApp\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
